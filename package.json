@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://chem0903.github.io/note-app/",
   "eslintConfig": {
     "extends": [
       "react-app",
